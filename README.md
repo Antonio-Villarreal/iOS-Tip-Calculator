@@ -37,7 +37,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Some challenges I encountered when working on this project was the switch in operating system and the confusion of the new IDE/language. Personally,
 I have never used a MacOS, especially a virtual machine, so installing and using these two things together provded to be an obstacle at first but with investing
 time into learning I was able to understand. The second challenge was trying to understand Swift and Xcode because they are brand new to me but after reading the 
-recommended readings and strictly following the instructions I gained some basic knowledge and foundations.
+recommended readings and strictly following the instructions I gained some basic knowledge and foundations. The first time I created and coded the project I
+encountered a problem with the main that would not allow it to execute and since I lacked the knowledge to correctly troubleshoot I decided to restart. This was
+actually a positive process because I recreated the entire project without the directions and it tested my comprehension.
 
 ## License
 
